@@ -1,0 +1,38 @@
+{
+  "stickers" : [
+    {
+      "filename" : "BowTie.sticker"
+    },
+    {
+      "filename" : "Brazil.sticker"
+    },
+    {
+      "filename" : "Canada.sticker"
+    },
+    {
+      "filename" : "Hola.sticker"
+    },
+    {
+      "filename" : "India.sticker"
+    },
+    {
+      "filename" : "OMG.sticker"
+    },
+    {
+      "filename" : "Smile.sticker"
+    },
+    {
+      "filename" : "Vietnam.sticker"
+    },
+    {
+      "filename" : "wow.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
